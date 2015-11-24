@@ -1,17 +1,3 @@
-/********************************************************************
-* Author  :  nirda, jasrub
-* ID      : 
-* Course  : Computer Graphics
-* Project : Ex1
-*
-* Purpose : arcball interface for displaying OpenMesh objects
-*
-\******************************************************************/
-
-////////////////////////////
-// Project includes         
-////////////////////////////
-
 #include <iostream>
 #include <stdio.h>
 #include <vector>
